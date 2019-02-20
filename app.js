@@ -26,7 +26,7 @@ app.set('view engine', 'ejs');
 
 var userloginServer = "http://52.53.89.43:8000/user/";
 var productCatalogueServer = "http://52.53.89.43:8000/products/";
-var cartServer = "http://52.53.89.43:8000/cart/";
+var cartServer = "http://54.215.206.122:32224/";
 var orderServer = "http://52.53.89.43:8000/order/";
 var paymentServer = "http://52.53.89.43:8000/pay/";
 var reviewServer = "http://52.53.89.43:8000/review/";
